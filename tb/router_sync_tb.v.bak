@@ -4,7 +4,7 @@ module router_sync_tb();
  
  wire soft_reset_0, soft_reset_1, soft_reset_2, fifo_full;
  wire  vld_out_0, vld_out_1, vld_out_2;
- reg [2:0]write_enb;
+ wire [2:0]write_enb;
 
 router_sync DUT(detect_add,write_enb_reg,read_enb_0,read_enb_1,read_enb_2,empty_0,empty_1,empty_2,full_0,full_1,full_2,clock,resetn,data_in,soft_reset_0,soft_reset_1,soft_reset_2, fifo_full,vld_out_0,vld_out_1,vld_out_2,write_enb);
  
