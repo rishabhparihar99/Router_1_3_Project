@@ -24,7 +24,7 @@ task reset;
    resetn=1'b1;
  end
 endtask
-
+  
 task pkt_len_25;
 reg [5:0]payload_len;
 reg [7:0]payload_data,parity;
@@ -108,7 +108,10 @@ initial begin
     pkt_len_5();
     repeat(2)
        @(negedge clk);
-    read_enb_2 = 1'b1;
+     read_enb_2 = 1'b1;
+    
+
+      
    #1000 $finish;
 end
     

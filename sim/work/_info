@@ -9,212 +9,212 @@ z2
 cModel Technology
 dC:/intelFPGA_lite/17.1
 vrouter_fifo
-Z0 !s110 1655202998
+!s110 1655377554
 !i10b 1
 !s100 3M87Z_LD3g<ok8fSm7?4o3
 IVHG=h0aA?6m0E[=XTceY73
-Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dS:/Maven/VERILOG/Router Project 1/sim
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dS:/Maven/VERILOG/Router Project 1/sim
 w1653568453
 8S:/Maven/VERILOG/Router Project 1/rtl/router_fifo.v
 FS:/Maven/VERILOG/Router Project 1/rtl/router_fifo.v
 L0 2
-Z3 OV;L;10.5b;63
+Z2 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1655202998.000000
+!s108 1655377554.000000
 !s107 S:/Maven/VERILOG/Router Project 1/rtl/router_fifo.v|
 !s90 -reportprogress|300|-work|work|-stats=none|S:/Maven/VERILOG/Router Project 1/rtl/router_fifo.v|
 !i113 1
-Z5 o-work work
-Z6 tCvgOpt 0
+Z3 o-work work
+Z4 tCvgOpt 0
 vrouter_fifo_tb
-Z7 !s110 1655202999
+Z5 !s110 1655377555
 !i10b 1
 !s100 CT?=5d8_QBMYjU6M[efhZ1
 I5KN5gK:5NY8LcmD??=R0]3
+R0
 R1
-R2
 w1654097273
 8S:/Maven/VERILOG/Router Project 1/tb/router_fifo_tb.v
 FS:/Maven/VERILOG/Router Project 1/tb/router_fifo_tb.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-Z8 !s108 1655202999.000000
+Z6 !s108 1655377555.000000
 !s107 S:/Maven/VERILOG/Router Project 1/tb/router_fifo_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|S:/Maven/VERILOG/Router Project 1/tb/router_fifo_tb.v|
 !i113 1
-R5
-R6
+R3
+R4
 vrouter_fsm
-R0
+R5
 !i10b 1
 !s100 :G]3]J=d5c?]_FQ54S80_0
 I:oC=U>mm8afOTA?R<eESh3
+R0
 R1
-R2
 w1654092424
 8S:/Maven/VERILOG/Router Project 1/rtl/router_fsm.v
 FS:/Maven/VERILOG/Router Project 1/rtl/router_fsm.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R4
+R6
 !s107 S:/Maven/VERILOG/Router Project 1/rtl/router_fsm.v|
 !s90 -reportprogress|300|-work|work|-stats=none|S:/Maven/VERILOG/Router Project 1/rtl/router_fsm.v|
 !i113 1
-R5
-R6
+R3
+R4
 vrouter_fsm_tb
-R7
+R5
 !i10b 1
 !s100 HF07QQnozaj4=Hj43oljK3
 Ie>P;UzfONTl;Ab[N99BcG2
+R0
 R1
-R2
 w1654115303
 8S:/Maven/VERILOG/Router Project 1/tb/router_fsm_tb.v
 FS:/Maven/VERILOG/Router Project 1/tb/router_fsm_tb.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R8
+R6
 !s107 S:/Maven/VERILOG/Router Project 1/tb/router_fsm_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|S:/Maven/VERILOG/Router Project 1/tb/router_fsm_tb.v|
 !i113 1
-R5
-R6
+R3
+R4
 vrouter_reg
-R0
+R5
 !i10b 1
 !s100 Oa2ZNZ3>4CE4Hb=^We@o>3
-I^Q]oM1`f`302D`M199[Qg0
+IOAn09[VVhd=J06nk_78Pc2
+R0
 R1
-R2
 w1653039850
-8S:/Maven/VERILOG/Router Project 1/rtl/router_reg.v
-FS:/Maven/VERILOG/Router Project 1/rtl/router_reg.v
+8S:\Maven\VERILOG\Router Project 1\rtl\router_reg.v
+FS:\Maven\VERILOG\Router Project 1\rtl\router_reg.v
 L0 1
-R3
-r1
-!s85 0
-31
-R4
-!s107 S:/Maven/VERILOG/Router Project 1/rtl/router_reg.v|
-!s90 -reportprogress|300|-work|work|-stats=none|S:/Maven/VERILOG/Router Project 1/rtl/router_reg.v|
-!i113 1
-R5
-R6
-vrouter_reg_tb
-R7
-!i10b 1
-!s100 TP^eRl@TmXGCV>5Xz^klX2
-I1Zoeb]4B>i1URA5DZC47J1
-R1
 R2
-w1654103546
-8S:/Maven/VERILOG/Router Project 1/tb/router_reg_tb.v
-FS:/Maven/VERILOG/Router Project 1/tb/router_reg_tb.v
-L0 1
-R3
 r1
 !s85 0
 31
-R8
-!s107 S:/Maven/VERILOG/Router Project 1/tb/router_reg_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|S:/Maven/VERILOG/Router Project 1/tb/router_reg_tb.v|
-!i113 1
-R5
 R6
+!s107 S:\Maven\VERILOG\Router Project 1\rtl\router_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:\Maven\VERILOG\Router Project 1\rtl\router_reg.v|
+!i113 1
+R3
+R4
+vrouter_reg_tb
+R5
+!i10b 1
+!s100 KX]fa<B0K;RV9W^fP6ljC2
+IY=W=3ZzMX`FJR8_9`NHLC2
+R0
+R1
+w1655362096
+8S:\Maven\VERILOG\Router Project 1\tb\router_reg_tb.v
+FS:\Maven\VERILOG\Router Project 1\tb\router_reg_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 S:\Maven\VERILOG\Router Project 1\tb\router_reg_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:\Maven\VERILOG\Router Project 1\tb\router_reg_tb.v|
+!i113 1
+R3
+R4
 vrouter_sync
-R7
+R5
 !i10b 1
 !s100 QN@7QRNDEQ0l5kiceTz6N1
 Io8e9ROc6Z;58PN[B<c2m53
+R0
 R1
-R2
 w1654094185
 8S:/Maven/VERILOG/Router Project 1/rtl/router_sync.v
 FS:/Maven/VERILOG/Router Project 1/rtl/router_sync.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R8
+R6
 !s107 S:/Maven/VERILOG/Router Project 1/rtl/router_sync.v|
 !s90 -reportprogress|300|-work|work|-stats=none|S:/Maven/VERILOG/Router Project 1/rtl/router_sync.v|
 !i113 1
-R5
-R6
+R3
+R4
 vrouter_sync_tb
-R7
+Z7 !s110 1655377556
 !i10b 1
 !s100 Lbaaj>3S^[a=5K:C6O=cQ2
 IaSE;D:ZXe?lDCd:mC>;LB1
+R0
 R1
-R2
 w1655202984
 8S:/Maven/VERILOG/Router Project 1/tb/router_sync_tb.v
 FS:/Maven/VERILOG/Router Project 1/tb/router_sync_tb.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R8
+R6
 !s107 S:/Maven/VERILOG/Router Project 1/tb/router_sync_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|S:/Maven/VERILOG/Router Project 1/tb/router_sync_tb.v|
 !i113 1
-R5
-R6
+R3
+R4
 vrouter_top
-R7
+R5
 !i10b 1
 !s100 ^MnkDbcW7DlD:NFR<KaVd1
-I8jhgTbdYD4g97:REeB]cm2
+IJOiH]z^:k>mT8C1HJRTi`2
+R0
 R1
-R2
 w1653552319
-8S:/Maven/VERILOG/Router Project 1/rtl/router_top.v
-FS:/Maven/VERILOG/Router Project 1/rtl/router_top.v
+8S:\Maven\VERILOG\Router Project 1\rtl\router_top.v
+FS:\Maven\VERILOG\Router Project 1\rtl\router_top.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R8
-!s107 S:/Maven/VERILOG/Router Project 1/rtl/router_top.v|
-!s90 -reportprogress|300|-work|work|-stats=none|S:/Maven/VERILOG/Router Project 1/rtl/router_top.v|
-!i113 1
-R5
 R6
+!s107 S:\Maven\VERILOG\Router Project 1\rtl\router_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:\Maven\VERILOG\Router Project 1\rtl\router_top.v|
+!i113 1
+R3
+R4
 vrouter_top_tb
 R7
 !i10b 1
-!s100 ]IA2fURIP3LTlmUm0RhIB0
-IWL3=ZDMdbfm4g:VkNGeaQ2
+!s100 C>J]j3UEGz>@F_GD@E0e<2
+I14O^z=>]gYS1]gJL[I6Yj3
+R0
 R1
-R2
-w1653570084
-8S:/Maven/VERILOG/Router Project 1/tb/router_top_tb.v
-FS:/Maven/VERILOG/Router Project 1/tb/router_top_tb.v
+w1655377549
+8S:\Maven\VERILOG\Router Project 1\tb\router_top_tb.v
+FS:\Maven\VERILOG\Router Project 1\tb\router_top_tb.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R8
-!s107 S:/Maven/VERILOG/Router Project 1/tb/router_top_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|S:/Maven/VERILOG/Router Project 1/tb/router_top_tb.v|
+!s108 1655377556.000000
+!s107 S:\Maven\VERILOG\Router Project 1\tb\router_top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:\Maven\VERILOG\Router Project 1\tb\router_top_tb.v|
 !i113 1
-R5
-R6
+R3
+R4

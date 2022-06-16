@@ -5,14 +5,28 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	router_fsm
 
-} {} {}} {S:/Maven/VERILOG/Router Project 1/rtl/router_reg.v} {1 {vlog -work work -stats=none {S:/Maven/VERILOG/Router Project 1/rtl/router_reg.v}
+} {} {}} {S:/Maven/VERILOG/Router Project 1/rtl/router_reg.v} {1 {vlog -work work -stats=none {S:\Maven\VERILOG\Router Project 1\rtl\router_reg.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module router_reg
 
 Top level modules:
 	router_reg
 
-} {} {}} {S:/Maven/VERILOG/Router Project 1/rtl/router_top.v} {1 {vlog -work work -stats=none {S:/Maven/VERILOG/Router Project 1/rtl/router_top.v}
+} {} {}} {S:/Maven/VERILOG/Router Project 1/tb/router_sync_tb.v} {1 {vlog -work work -stats=none {S:/Maven/VERILOG/Router Project 1/tb/router_sync_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module router_sync_tb
+
+Top level modules:
+	router_sync_tb
+
+} {} {}} {S:/Maven/VERILOG/Router Project 1/tb/router_reg_tb.v} {1 {vlog -work work -stats=none {S:\Maven\VERILOG\Router Project 1\tb\router_reg_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module router_reg_tb
+
+Top level modules:
+	router_reg_tb
+
+} {} {}} {S:/Maven/VERILOG/Router Project 1/rtl/router_top.v} {1 {vlog -work work -stats=none {S:\Maven\VERILOG\Router Project 1\rtl\router_top.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module router_top
 
@@ -26,12 +40,12 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	router_fsm_tb
 
-} {} {}} {S:/Maven/VERILOG/Router Project 1/tb/router_reg_tb.v} {1 {vlog -work work -stats=none {S:/Maven/VERILOG/Router Project 1/tb/router_reg_tb.v}
+} {} {}} {S:/Maven/VERILOG/Router Project 1/tb/router_top_tb.v} {1 {vlog -work work -stats=none {S:\Maven\VERILOG\Router Project 1\tb\router_top_tb.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module router_reg_tb
+-- Compiling module router_top_tb
 
 Top level modules:
-	router_reg_tb
+	router_top_tb
 
 } {} {}} {S:/Maven/VERILOG/Router Project 1/rtl/router_fifo.v} {1 {vlog -work work -stats=none {S:/Maven/VERILOG/Router Project 1/rtl/router_fifo.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -39,13 +53,6 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 
 Top level modules:
 	router_fifo
-
-} {} {}} {S:/Maven/VERILOG/Router Project 1/tb/router_top_tb.v} {1 {vlog -work work -stats=none {S:/Maven/VERILOG/Router Project 1/tb/router_top_tb.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module router_top_tb
-
-Top level modules:
-	router_top_tb
 
 } {} {}} {S:/Maven/VERILOG/Router Project 1/rtl/router_sync.v} {1 {vlog -work work -stats=none {S:/Maven/VERILOG/Router Project 1/rtl/router_sync.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
